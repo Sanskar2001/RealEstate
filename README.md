@@ -1,7 +1,7 @@
 
 # Real Estate Web App
 
-A brief description of what this project does and who it's for
+
 
 
 ![Logo](assets/readme/EstateLogo.png)
